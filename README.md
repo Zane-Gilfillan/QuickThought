@@ -1,2 +1,2 @@
-# QuickThought
-twitter style website
+# quickthought
+**a twitter clone using next.js, tailwind, and sanity***
