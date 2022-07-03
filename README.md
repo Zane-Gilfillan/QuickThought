@@ -1,0 +1,2 @@
+# QuickThought
+twitter style website
